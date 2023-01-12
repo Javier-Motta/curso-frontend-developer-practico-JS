@@ -250,17 +250,17 @@ nav{
     font-weight: bold;
     height: 50px;
 }
-/*HOMEPAGE*/
+/*HOMEPAGE (product list)*/
 
 .cards-container{
-    margin-top: 25px;
+    margin-top: 20px;
     display: grid;
     grid-template-columns: repeat(auto-fill, 240px);
     gap: 26px;
     place-content: center;
 }
 .product-card {
-    width: 240px;
+    width: 220px;
 }
 .product-card img {
     width: 220px;
